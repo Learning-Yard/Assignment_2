@@ -572,15 +572,15 @@ span.select{position:absolute; background:#ffffff url('../images/drop-down.png')
 .form_container_block ul li .box8{display: inline-block; vertical-align: top; width: 66%;}
 
 
-.form_container_block ul li .name_fileds{display: inline-block; width:49%; position: relative;}
+.form_container_block ul li .name_fileds{display: inline-block; width:49%; position: relative; vertical-align:top;}
 .form_container_block ul li .name_fileds input[type="text"]{width: 380px;}
-.form_container_block ul li .phone_fileds{display: inline-block; width:49%; position: relative;}
+.form_container_block ul li .phone_fileds{display: inline-block; width:49%; position: relative; vertical-align:top;}
 .form_container_block ul li .phone_fileds input[type="text"]{width: 380px;}
-.form_container_block ul li .email_fileds{display: inline-block; width:49%; position: relative;}
+.form_container_block ul li .email_fileds{display: inline-block; width:49%; position: relative; vertical-align:top;}
 .form_container_block ul li .email_fileds input[type="text"]{width: 380px;}
 .form_container_block ul li .about_you_fileds{display: inline-block; width:49%; position: relative;}
 .form_container_block ul li .about_you_fileds textarea{width: 380px; resize:none;}
-.form_container_block ul li .pass_fileds{  vertical-align: top; display: inline-block; width:49%; position: relative;}
+.form_container_block ul li .pass_fileds{  vertical-align: top; display: inline-block; width:49%; position: relative; vertical-align:top}
 .form_container_block ul li .pass_fileds input[type="password"]{width: 380px;}
 .form_container_block ul li .age_fileds{  vertical-align: top; display: inline-block; width:49%; position: relative;}
 .form_container_block ul li .age_fileds input[type="text"]{width: 380px;}

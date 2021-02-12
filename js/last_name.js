@@ -8,7 +8,7 @@ function last_name(){
         document.getElementById('lname').innerHTML ="Please enter your last name.";
         // return false;
         }else if (!l_nameval.match(alpha)){
-            document.getElementById('lname').innerHTML ="Numbers not allowed";
+            document.getElementById('lname').innerHTML ="Only Characters allowed";
             // return false;
         }else if (l_nameval.length < 3){
             document.getElementById('lname').innerHTML ="Last Name should atleast have 3 character.";		
